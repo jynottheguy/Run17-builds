@@ -2,7 +2,7 @@
 
 Selected STFC tools and builds.
 
-## Run 49
+## Run 17 — Trial 49
 
 This build is based on the STFC Community Mod and includes the additional features we've developed on top of it.
 
@@ -12,4 +12,4 @@ This build is based on the STFC Community Mod and includes the additional featur
 - **Out-of-range viewing:** cargo/loot and ship strength can be viewed for players above or below your normal PvP hit range.
 - **Attacking an occupied miner:** the viewer itself is informational. To attack the occupying ship, click the mining node again and use the normal attack action.
 
-**Download:** [Run 49](./Run17-49-Safe-Mine-Loop.zip)
+**Download:** [Run 17 — Trial 49](./Run17-49-Safe-Mine-Loop.zip)
