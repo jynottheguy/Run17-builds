@@ -4,7 +4,7 @@ Selected STFC tools and builds.
 
 ## Run 17 — Trial 49
 
-This build is based on the STFC Community Mod and includes the additional features we've developed on top of it.
+This build is based on the STFC Community Mod and includes additional features built on top of it.
 
 ### Features
 - **F6 hostile attack shortcut:** selects the nearest visible hostile and initiates the normal attack action.
