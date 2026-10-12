@@ -13,6 +13,9 @@ Viewer behavior:
 - then continue cargo ↔ ship strength
 - the mine card is not reopened after the first transition
 
-The unstable saved-mine ActionPrimary experiment from Run 48 is not included in this build.
+Other included feature:
+- **F6 one-click hostile attack** — selects the nearest hostile and attacks it
+
+The unstable saved-mine ActionPrimary experiment from Run 48 is not included in this build. The F6 hostile attack is a separate feature and remains included.
 
 **Download:** [Run17-49-Safe-Mine-Loop.zip](./Run17-49-Safe-Mine-Loop.zip)
